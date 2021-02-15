@@ -1,7 +1,6 @@
-""" rewrite of https://github.com/voidstarr/SpaceGame
+"""  https://github.com/voidstarr/PySpaceGame
+    rewrite of https://github.com/voidstarr/SpaceGame
     derived from https://github.com/pygame/pygame/blob/main/examples/aliens.py
-    TODO:
-      end screen
 """ 
 import random
 import os
